@@ -151,7 +151,7 @@ const HeroSection = () => {
           <div className="absolute inset-2 rounded-full bg-slate-900 flex items-center justify-center">
             <div className="w-40 h-40 rounded-full bg-gradient-to-br from-slate-700 to-slate-800 flex items-center justify-center text-6xl font-bold text-cyan-400">
               <img
-                src="/jk_image.jpg"
+                src="/jk_image.png"
                 alt="Profile"
                 className="w-full h-full object-cover rounded-full"
               />
