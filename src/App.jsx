@@ -221,7 +221,7 @@ const HeroSection = () => {
   </Button>
 </motion.a>
 
-          <a href="public/Sikhakolli_JayaKrishna_Resume.pdf" download="Sikhakolli_JayaKrishna_Resume.pdf">
+          <a href="/Sikhakolli_JayaKrishna_Resume.pdf" download="Sikhakolli_JayaKrishna_Resume.pdf">
             <Button
               variant="outline"
               size="lg"
